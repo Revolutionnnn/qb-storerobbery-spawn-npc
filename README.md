@@ -1,6 +1,9 @@
 # qb-storerobbery
 Store Robberies For QB-Core
 
+# NPC SPAWN
+I added a few more lines of code so that if an attempt is made to rob the store, NPCs will appear to defend the store.
+
 # License
 
     QBCore Framework
